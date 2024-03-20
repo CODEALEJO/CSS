@@ -1,5 +1,35 @@
 h1{
     text-align: center;
-    color: chartreuse;
+    color:white;
     text-transform:uppercase;
    } 
+
+#titulo2{
+    color: white;
+    text-align: center
+}
+
+body{
+    background-color: plum;
+}
+/* seleccion mediante el nombre de la etiqueta */
+/*    
+   p{
+    color: red;
+   } */
+
+#parrafo1 {
+    color: yellow;
+}
+
+#parrafo2{
+    color: blue;
+}
+
+#parrafo3{
+    color: red;
+}
+
+.trasformar-texto-en-mayuscula{
+    text-transform: uppercase;
+}

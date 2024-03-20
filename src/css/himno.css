@@ -1,0 +1,26 @@
+#titulo1{
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+#titulo2{
+    text-align: center;
+}
+
+.textoamarillo{
+    color: yellow;
+}
+
+.textoazul{
+    color: blue;
+}
+
+.textorojo{
+    color: red;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2012/04/15/21/27/colombia-35364_1280.png);
+}
+
