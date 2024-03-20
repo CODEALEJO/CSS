@@ -4,20 +4,23 @@
     
 }
 
-#titulo2{
+.titulo2{
     text-align: center;
 }
 
 .textoamarillo{
     color: yellow;
+    text-align: center;
 }
 
 .textoazul{
     color: blue;
+    text-align: center;
 }
 
 .textorojo{
     color: red;
+    text-align: center;
 }
 
 body{
