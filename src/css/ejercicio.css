@@ -1,0 +1,39 @@
+#centro{
+    text-align: center;
+}
+
+.primero{
+    border: 10px dashed red;
+}
+
+
+.segundo{
+    border: 200px groove blue;
+}
+
+.tercero{
+    border: 100px double green;
+}
+
+.cuarto{
+    border: 50px solid gold;
+}
+
+.quinto{
+    border: 70px inset pink;
+}
+
+#fondo{
+    background-color: slateblue;
+}
+
+.seccion{
+    display: inline-flex;
+}
+
+
+figure img{
+    width: 200px; 
+    height: 200px;
+}
+
